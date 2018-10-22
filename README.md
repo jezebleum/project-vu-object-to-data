@@ -16,7 +16,13 @@ To be able to run the notebooks, it is needed to have Anaconda (Python 3 in spec
 From there on use pip as below to install the libraries mentioned in the notebook (if not installed yet)
 
 ```
-pip install --user *library needed*
+pip install --user *LIBRARY NEEDED*
+```
+
+Like for example with pandas
+
+```
+pip install --user pandas
 ```
 
 ## Running the notebook
@@ -31,7 +37,7 @@ jupyter notebook
 
 The CSV's are already made, if anyone is interested in how this is done, see the cells that are fully commented. 
 
-Make sure when removing the hashtags and rerunning these cells to delete the csv's beforehand, otherwise this code will just get paste the csv's to the designated files again.
+Make sure when removing the hashtags and rerunning these cells to delete the csv's beforehand, otherwise this will just paste the csv's to the end of the final_csv files.
 
 ## Versioning
 
