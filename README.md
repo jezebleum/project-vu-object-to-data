@@ -37,6 +37,10 @@ Make sure when removing the hashtags and rerunning these cells to delete the csv
 
 It is mandatory to use Python 3.6.4 to execute the cells. 
 
+## What steps we're taken?
+
+All steps are described in detail in the research report, which can be found in the repository aswell. 
+
 ## Authors
 
 * **Jesse Blom** 
