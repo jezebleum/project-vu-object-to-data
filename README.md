@@ -45,7 +45,7 @@ It is mandatory to use Python 3.6.4 to execute the cells (Other versions will sh
 
 ## What steps were taken?
 
-All steps are described in detail in the research report, which can be found in the repository aswell. Any further questions, please contact the contributors.
+All steps are described in detail in the [research report](https://github.com/jezebleum/project-vu-object-to-data/blob/master/RESEARCH%20REPORT%20-%20SEASONAL%20PATTERNS%20IN%20MOVIES.pdf), which can be found in the repository aswell. Any further questions, please contact the contributors.
 
 ## Authors
 
