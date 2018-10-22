@@ -1,8 +1,6 @@
 # Object to Data: Seasonal patterns in movies
 
-Introduction course to the minor (6 EC)
-
-* [Digital Humanities and Social Analytics](https://minor.vu.nl/en/programmes-a-z/digital-humanities-and-social-analytics/index.aspx) - description of the full minor course
+* [Digital Humanities and Social Analytics](https://minor.vu.nl/en/programmes-a-z/digital-humanities-and-social-analytics/index.aspx) - description of the whole minor (30 EC)
 
 ## Getting Started
 
@@ -21,7 +19,7 @@ From there on use pip as below to install the libraries mentioned in the noteboo
 pip install --user *LIBRARY NEEDED*
 ```
 
-Like for example with pandas
+Like for example with pandas:
 
 ```
 pip install --user pandas
@@ -43,7 +41,7 @@ Make sure when removing the hashtags and rerunning these cells to delete the csv
 
 ## Versioning
 
-It is mandatory to use Python 3.6.4 to execute the cells. 
+It is mandatory to use Python 3.6.4 to execute the cells (Other versions will show errors).
 
 ## What steps were taken?
 
@@ -52,7 +50,7 @@ All steps are described in detail in the research report, which can be found in 
 ## Authors
 
 * **Jesse Blom** 
-* **Sophie van Duin** 
-* **Anne-Sophie van Hulst** 
+* **Sophie van Duin**  
+* **Anne-Sophie van Hulst**  
 
 
