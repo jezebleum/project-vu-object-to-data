@@ -1,6 +1,6 @@
 # Object to Data: Seasonal patterns in movies
 
-Project for Object To Data - * [Digital Humanities and Social Analytics minor] (https://minor.vu.nl/en/programmes-a-z/digital-humanities-and-social-analytics/index.aspx) - description of the full minor
+Project for Object To Data - * [Digital Humanities and Social Analytics minor](https://minor.vu.nl/en/programmes-a-z/digital-humanities-and-social-analytics/index.aspx) - description of the full minor
 
 ## Getting Started
 
